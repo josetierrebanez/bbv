@@ -209,7 +209,7 @@ Le informamos que su operación <strong>Transferencias Online - A Terceros Mismo
   </tr>
   <tr>
     <td style="padding:2px 0 2px 10px;width:40%">
-      <strong>Referencia:</strong>
+      <strong>Referenciá:</strong>
     </td>
     <td>
       6456
